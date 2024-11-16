@@ -29,6 +29,7 @@ New features:
 - Add ``Alarm.ACKNOWLEDGED``, ``Alarm.TRIGGER``, ``Alarm.REPEAT``, and ``Alarm.DURATION`` properties
   as well as ``Alarm.triggers`` to calculate alarm triggers.
 - Add ``__doc__`` string documentation for ``vDate``. See `Issue 742 <https://github.com/collective/icalendar/issues/742>`_.
+- Add ``__doc__`` string documentation for ``vDuration``. See `Issue 742 <https://github.com/collective/icalendar/issues/742>`_.
 
 Bug fixes:
 
